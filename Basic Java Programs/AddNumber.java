@@ -6,6 +6,6 @@ public class AddNumber {    //no i/p hence no class/package are imported
     float n=10.25f;  //'f' added to make the data types compatible
     float m=20.55f;
     float o=n+m;
-    System.out.println("The sum of the numbers is "+o);
+    System.out.println("The sum of the numbers is:  "+o);
 }
 }
