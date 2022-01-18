@@ -1,5 +1,5 @@
 # JavaPrgms
-## This folder includes Java programs. Each folder includes:
+## This folder includes all the java programs I've practiced while learning Java. The following are the sub folders:
  #### 1)Basic Java Programs-I
  #### 2)Basic Java Programs-II
  #### 3)Implementation functions in java
